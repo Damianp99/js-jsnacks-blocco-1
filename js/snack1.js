@@ -7,4 +7,6 @@ if (firstNumber > secondNumber) {
     console.log(firstNumber)
 } else if (firstNumber < secondNumber) {
     console.log(secondNumber)
+} else {
+    console.log('I numeri sono uguali')
 }
